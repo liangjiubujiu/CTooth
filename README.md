@@ -1,4 +1,4 @@
-# UCTooth-dataset Request
+# CTooth Dental Dataset Request
 ## this is the official link to request UCTooth
 Please send an e-mail to acw499@qmul.ac.uk to receive a link to the UCTooth dataset. Your e-mail must be sent from a valid institutional account, and include the following text (copy and paste the text below, filling the required fields):
 
