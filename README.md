@@ -14,7 +14,7 @@ Current position: [your job title]
 
 E-mail: [must be the e-mail at the above mentioned institution]
 
-I have read and agreed to follow the terms and conditions below: The use of the UCTooth dataset is defined by the following conditions:
+I have read and agreed to follow the terms and conditions below: The use of the CTooth dataset is defined by the following conditions:
 
 This dataset is provided “AS IS”, without any express or implied warranty. Although every effort has been made to ensure accuracy, IvisionLab does not take any responsibility for errors or omissions;
 
