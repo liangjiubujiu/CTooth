@@ -2,7 +2,7 @@
 ## This is the official link to request CTooth
 Please send an e-mail to acw499@qmul.ac.uk to receive a link to the CTooth dataset. Your e-mail must be sent from a valid institutional account, and include the following text (copy and paste the text below, filling the required fields):
 
-"Subject: Request to download UCTooth dataset.
+"Subject: Request to download CTooth dataset.
 
 Name: [your first and last name]
 
