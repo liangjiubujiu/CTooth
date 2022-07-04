@@ -16,7 +16,7 @@ The gathered data set consists of **5803** CBCT slices in total, out of which **
 
 
 ## Dataset Requisition
-If you would like to access to the **CTooth** dataset, please send an email guided by **[Data_requisition.md](https://github.com/liangjiubujiu/CTooth/blob/main/Data_requistion.md)** to the acw499@qmul.ac.uk. You will notice our updates via a Wechat group or following our Github account.
+Please send an email to acw499@qmul.ac.uk requesting access to the CTooth dataset after reading the **[Data_requisition.md](https://github.com/liangjiubujiu/CTooth/blob/main/Data_requistion.md)**. Our updates will be announced later on a Wechat group or via our Github account.
 
 ## Benchmark
 Please see the attention based tooth segmentation benckmark [here](./benchmark/readme.md)
