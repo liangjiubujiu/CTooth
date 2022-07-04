@@ -2,7 +2,7 @@
 # CTooth
 this is the official link to request UCTooth
 <div align="center">
-<img src="images/slogan.png" width=1500 height=300/>
+<img src="images/slogan.png" width=1000 height=200/>
 </div>
 
 # A 3D multi-modal medical image segmentation library in PyTorch
