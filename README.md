@@ -29,7 +29,7 @@ If you would like to access to the **CTooth** dataset, please send an email guid
 ## Support 
 If you **really** like this repository and find it useful, please consider (★) **starring** it, so that it can reach a broader audience of like-minded people. It would be highly appreciated :) !
 
-## Contributing to Medical ZOO
+## Contributing to CTooth
 If you find a bug, create a GitHub issue, or even better, submit a pull request. Similarly, if you have questions, simply post them as GitHub issues. More info on the [contribute directory](./contribute/readme.md).
 
 ## Current team
