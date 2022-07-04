@@ -6,7 +6,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/black0017/MedicalZooPytorch/blob/master/Quickstart_MedicalZoo.ipynb)
 ![](https://img.shields.io/github/license/black0017/MedicalZooPytorch)
 
 We strongly believe in open and **reproducible deep learning research**. Our goal is to implement an open-source **medical image segmentation library of state of the art 3D deep neural networks in PyTorch**. We also implemented a bunch of data loaders of the most common medical image datasets.  This project started as an [MSc Thesis](https://nemertes.lis.upatras.gr/jspui/handle/10889/12754 "MSc thesis link") and is currently under further development. Although this work was initially focused on **3D multi-modal brain MRI segmentation** we are slowly adding more architectures and data-loaders.  
@@ -222,13 +221,13 @@ organization={Nemertes}}
 In general, in the open source community recognizing third party utilities increases the credibility of your software. In deep learning, **academics tend to skip acknowledging third party repos for some reason**. In essence, we used whatever resource we needed to make this project self-complete, that was nicely written. However, **modifications were performed to match the project structure and requirements**. Here is the list of the **top-based works**: [HyperDenseNet](https://github.com/josedolz/HyperDenseNet_pytorch) model. Most of the segmentation losses from [here](https://github.com/wolny/pytorch-3dunet/blob/master/pytorch3dunet/unet3d/losses.py). 3D-SkipDenseNet model from [here](https://github.com/tbuikr/3D-SkipDenseSeg). 3D-ResNet base model from [here](https://github.com/kenshohara/3D-ResNets-PyTorch). Abstract model class from [MimiCry project](https://github.com/kwotsin/mimicry). Trainer and Writer class from PyTorch [template](https://github.com/victoresque/pytorch-template). Covid-19 implementation based on our previous work from [here](https://github.com/IliasPap/COVIDNet). MICCAI 2019 Gleason challenge data-loaders based on our previous work from [here](https://github.com/black0017/MICCAI-2019-Prostate-Cancer-segmentation-challenge). Basic 2D Unet implementation from [here](https://github.com/milesial/Pytorch-UNet).Vnet model from [here](https://github.com/mattmacy/vnet.pytorch)
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/black0017/MedicalZooPytorch.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/liangjiubujiu/CTooth.svg?style=flat-square
 [contributors-url]: https://github.com/liangjiubujiu/CTooth/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/black0017/MedicalZooPytorch.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/liangjiubujiu/CTooth.svg?style=flat-square
 [forks-url]: https://github.com/liangjiubujiu/CTooth/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/black0017/MedicalZooPytorch.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/liangjiubujiu/CTooth.svg?style=flat-square
 [stars-url]: https://github.com/liangjiubujiu/CTooth/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/black0017/MedicalZooPytorch.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/liangjiubujiu/CTooth.svg?style=flat-square
 [issues-url]: https://github.com/liangjiubujiu/CTooth/issues
