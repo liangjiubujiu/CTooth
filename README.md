@@ -8,7 +8,7 @@
 [![Issues][issues-shield]][issues-url]
 ![](https://img.shields.io/github/license/black0017/MedicalZooPytorch)
 
-We strongly believe in open and **reproducible deep learning research**. Our goal is to implement an open-source **tooth volume segmentation library of state of the art 3D deep neural networks in PyTorch**.    
+We strongly believe this work is a valuable and desired asset to share in public for computer-aided tooth image research. Our goal is to **collect and annotate a 3D tooth dataset, implement an open-source tooth volume segmentation library of state of the art 3D deep neural networks in PyTorch**.    
 #### Top priorities 22-07
 [Update] This [conference paper](https://arxiv.org/abs/2206.08778) has been accepted on 2022 [ICIRA](https://icira2022.org/camera-ready-submission/).
 
