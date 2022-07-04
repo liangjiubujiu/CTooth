@@ -15,7 +15,7 @@ We strongly believe this work is a valuable and desired asset to share in public
 [Update] We will release our dental dataset **CTooth** and more data samples later in these two months. Please follow us and watch this Github repository for releases to be notified. 
 
 
-## Dataset Requirement
+## Dataset Requisition
 If you would like to access to the **CTooth** dataset, please send an email guided by **[Data_requirement.md](https://github.com/liangjiubujiu/CTooth/blob/main/Data_requistion.md)** to the acw499@qmul.ac.uk. You will notice our updates via a Wechat group or following our Github account.
 
 ## Benchmark
