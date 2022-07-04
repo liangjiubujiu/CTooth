@@ -16,26 +16,14 @@ We strongly believe in open and **reproducible deep learning research**. Our goa
 
 
 ### Datasets 
+If you would like to access to the **CTooth** dataset, please send an email guided by **Data_requistion.md** to the [author](acw499@qmul.ac.uk). You will notice our updates via a Wechat group or following our Github account.
 
-#### Classification from 2D images:
--  [COVID-CT dataset](https://arxiv.org/pdf/2003.13865.pdf)
-
--  [COVIDx dataset](https://github.com/IliasPap/COVIDNet/blob/master/README.md)
-
-#### 3D dental segmentation dataset
-- [COVID-19 CT Lung and Infection Segmentation Dataset](https://zenodo.org/record/3757476#.XqgcL3Uzbmt)
-
-
-## Latest features (06/2020)
+## Latest features (06/2022)
 
 - On the fly 3D total volume visualization
 - Tensorboard and PyTorch 1.4+ support to track training progress
 - Code cleanup and packages creation
-- Offline sub-volume generation 
-- Add Hyperdensenet, 3DResnet-VAE, DenseVoxelNet
-- Fix mrbrains,Brats2018,Brats2019, Iseg2019, IXI,MICCAI 2019 gleason challenge dataloaders
-- Add confusion matrix support for understanding training dynamics
-- Some Visualizations
+- Evaluation visualization
 
 
 ## Support 
@@ -52,14 +40,22 @@ If you find a bug, create a GitHub issue, or even better, submit a pull request.
 Please advice the **LICENSE.md** file. For usage of third party libraries and repositories please advise the respective distributed terms. It would be nice to cite the **original models and datasets**. If you want, you can also **cite this work** as:
 
 ```
-@MastersThesis{adaloglou2019MRIsegmentation,
-author = {Adaloglou Nikolaos},
-title={Deep learning in medical image analysis: a comparative analysis of
-multi-modal brain-MRI segmentation with 3D deep neural networks},
-school = {University of Patras},
-note="\url{https://github.com/black0017/MedicalZooPytorch}",
-year = {2019},
-organization={Nemertes}}
+@ARTICLE{2022arXiv220608778C,
+       author = {{Cui}, Weiwei and {Wang}, Yaqi and {Zhang}, Qianni and {Zhou}, Huiyu and {Song}, Dan and {Zuo}, Xingyong and {Jia}, Gangyong and {Zeng}, Liaoyuan},
+        title = "{CTooth: A Fully Annotated 3D Dataset and Benchmark for Tooth Volume Segmentation on Cone Beam Computed Tomography Images}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Computer Vision and Pattern Recognition, Computer Science - Artificial Intelligence},
+         year = 2022,
+        month = jun,
+          eid = {arXiv:2206.08778},
+        pages = {arXiv:2206.08778},
+archivePrefix = {arXiv},
+       eprint = {2206.08778},
+ primaryClass = {cs.CV},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2022arXiv220608778C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 ```
 
 ####  Acknowledgements
