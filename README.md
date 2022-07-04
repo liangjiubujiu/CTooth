@@ -10,7 +10,8 @@
 
 We strongly believe in open and **reproducible deep learning research**. Our goal is to implement an open-source **tooth volume segmentation library of state of the art 3D deep neural networks in PyTorch**.    
 #### Top priorities 22-07
-[Update] We will release our dental dataset **CTooth** and more data later in these two months. Please follow us and watch this Github repository for releases to be notified. 
+[Update] This [conference paper](https://arxiv.org/abs/2206.08778) has been accepted on 2022 [ICIRA](https://icira2022.org/camera-ready-submission/).
+[Update] We will release our dental dataset **CTooth** and more data samples later in these two months. Please follow us and watch this Github repository for releases to be notified. 
 
 
 ### Datasets 
