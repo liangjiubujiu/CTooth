@@ -21,7 +21,7 @@ Please send an email to acw499@qmul.ac.uk requesting access to the CTooth datase
 ## Benchmark
 Please see the attention based tooth segmentation benckmark [here](./benchmark/readme.md)
 
-## Latest features (06/2022)
+## Latest features (07/2022)
 
 - On the fly 3D total volume visualization
 - Tensorboard and PyTorch 1.4+ support to track training progress
