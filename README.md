@@ -1,11 +1,7 @@
-
-# CTooth
-this is the official link to request UCTooth
 <div align="center">
 <img src="images/slogan.png" width=1000 height=200/>
 </div>
 
-# A 3D multi-modal medical image segmentation library in PyTorch
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -227,12 +223,12 @@ In general, in the open source community recognizing third party utilities incre
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/black0017/MedicalZooPytorch.svg?style=flat-square
-[contributors-url]: https://github.com/black0017/MedicalZooPytorch/graphs/contributors
+[contributors-url]: https://github.com/liangjiubujiu/CTooth/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/black0017/MedicalZooPytorch.svg?style=flat-square
-[forks-url]: https://github.com/black0017/MedicalZooPytorch/network/members
+[forks-url]: https://github.com/liangjiubujiu/CTooth/network/members
 
 [stars-shield]: https://img.shields.io/github/stars/black0017/MedicalZooPytorch.svg?style=flat-square
-[stars-url]: https://github.com/black0017/MedicalZooPytorch/stargazers
+[stars-url]: https://github.com/liangjiubujiu/CTooth/stargazers
 
 [issues-shield]: https://img.shields.io/github/issues/black0017/MedicalZooPytorch.svg?style=flat-square
-[issues-url]: https://github.com/black0017/MedicalZooPytorch/issues
+[issues-url]: https://github.com/liangjiubujiu/CTooth/issues
