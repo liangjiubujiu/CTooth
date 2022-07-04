@@ -16,7 +16,7 @@ We strongly believe this work is a valuable and desired asset to share in public
 
 
 ## Dataset Requisition
-If you would like to access to the **CTooth** dataset, please send an email guided by **[Data_requirement.md](https://github.com/liangjiubujiu/CTooth/blob/main/Data_requistion.md)** to the acw499@qmul.ac.uk. You will notice our updates via a Wechat group or following our Github account.
+If you would like to access to the **CTooth** dataset, please send an email guided by **[Data_requisition.md](https://github.com/liangjiubujiu/CTooth/blob/main/Data_requistion.md)** to the acw499@qmul.ac.uk. You will notice our updates via a Wechat group or following our Github account.
 
 ## Benchmark
 Please see the attention based tooth segmentation benckmark [here](./benchmark/readme.md)
