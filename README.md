@@ -13,6 +13,7 @@ The gathered data set consists of **5803** CBCT slices in total, out of which **
 #### Top priorities 22-10
 
 [Update] A link to download the dataset has been sent to the applicants.
+
 [Update] More details can be found on [Kaggle](https://www.kaggle.com/datasets/weiweicui/ctooth-dataset). 
 
 #### Top priorities 22-07
