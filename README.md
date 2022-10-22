@@ -53,20 +53,19 @@ If you find a bug, create a GitHub issue, or even better, submit a pull request.
 Please advice the **LICENSE.md** file. For usage of third party libraries and repositories please advise the respective distributed terms. It would be nice to cite the **original models and datasets**. If you want, you can also **cite this work** as:
 
 ```
-@ARTICLE{2022arXiv220608778C,
-       author = {{Cui}, Weiwei and {Wang}, Yaqi and {Zhang}, Qianni and {Zhou}, Huiyu and {Song}, Dan and {Zuo}, Xingyong and {Jia}, Gangyong and {Zeng}, Liaoyuan},
-        title = "{CTooth: A Fully Annotated 3D Dataset and Benchmark for Tooth Volume Segmentation on Cone Beam Computed Tomography Images}",
-      journal = {arXiv e-prints},
-     keywords = {Computer Science - Computer Vision and Pattern Recognition, Computer Science - Artificial Intelligence},
-         year = 2022,
-        month = jun,
-          eid = {arXiv:2206.08778},
-        pages = {arXiv:2206.08778},
-archivePrefix = {arXiv},
-       eprint = {2206.08778},
- primaryClass = {cs.CV},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2022arXiv220608778C},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+
+@inproceedings{Cui2022CToothAF,
+  title={CTooth: A Fully Annotated 3D Dataset and Benchmark for Tooth Volume Segmentation on Cone Beam Computed Tomography Images},
+  author={Weiwei Cui and Yaqi Wang and Qianni Zhang and Huiyu Zhou and Dansheg Song and Xingyong Zuo and Gangyong Jia and Liaoyuan Zeng},
+  booktitle={ICIRA},
+  year={2022}
+}
+
+@inproceedings{Cui2022CToothAL,
+  title={CTooth+: A Large-scale Dental Cone Beam Computed Tomography Dataset and Benchmark for Tooth Volume Segmentation},
+  author={Weiwei Cui and Yaqi Wang and Yilong Li and Dansheg Song and Xingyong Zuo and Jiaojiao Wang and Yifan Zhang and Huiyu Zhou and Bun San Chong and Liaoyuan Zeng and Qianni Zhang},
+  booktitle={DALI@MICCAI},
+  year={2022}
 }
 
 ```
