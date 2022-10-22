@@ -9,8 +9,13 @@
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 The gathered data set consists of **5803** CBCT slices in total, out of which **4243**  contain tooth annotations. The images contain significant structural variations in relation to the teeth position, the number of teeth, restorations, implants, appliances,  and the size of jaws.  We strongly believe this work is a valuable and desired asset to share in public for computer-aided tooth image research. Our goal is to **collect and annotate a 3D tooth dataset, implement an open-source tooth volume segmentation library of state of the art 3D deep neural networks in PyTorch**.    
+
+#### Top priorities 22-10
+
+[Update] A link to download the dataset has been sent to the applicants.
+[Update] More details can be found on [Kaggle](https://www.kaggle.com/datasets/weiweicui/ctooth-dataset). 
+
 #### Top priorities 22-07
-[Update] A link to download the dataset will be sent to the applicants as soon as it is ready.
 
 [Update] This conference paper [CTooth+](https://arxiv.org/abs/2208.01643) has been accepted on 2022 [MICCAI WORKSHOP DALI](https://dali-miccai.github.io/).
 
