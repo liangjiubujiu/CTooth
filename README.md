@@ -12,6 +12,7 @@ The gathered data set consists of **5803** CBCT slices in total, out of which **
 
 #### Top priorities 22-10
 **[Update] CTooth dataset has been accepted by the [2023 MICCAI challenge](https://conferences.miccai.org/2023/en/). Please wait for the official channels of data download and result submission. **
+
 [Update] As this dataset requires more annotation refinement, we will temporarily close the download link until we are ready to release it.  I appreciate your patience while we prepare.  You will be added to the waiting list once you send an email requesting data. 
 
 [Update] More details can be found on [Kaggle](https://www.kaggle.com/datasets/weiweicui/ctooth-dataset). 
