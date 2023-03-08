@@ -11,7 +11,7 @@
 The gathered data set consists of **5803** CBCT slices in total, out of which **4243**  contain tooth annotations. The images contain significant structural variations in relation to the teeth position, the number of teeth, restorations, implants, appliances,  and the size of jaws.  We strongly believe this work is a valuable and desired asset to share in public for computer-aided tooth image research. Our goal is to **collect and annotate a 3D tooth dataset, implement an open-source tooth volume segmentation library of state of the art 3D deep neural networks in PyTorch**.    
 
 #### Top priorities 22-10
-**[Update] CTooth dataset has been accepted by the [2023 MICCAI challenge](https://conferences.miccai.org/2023/en/). Please wait for the official channels of data download and result submission. **
+[Update] CTooth dataset has been accepted by the [2023 MICCAI challenge](https://conferences.miccai.org/2023/en/). Please wait for the official channels of data download and result submission. 
 
 [Update] As this dataset requires more annotation refinement, we will temporarily close the download link until we are ready to release it.  I appreciate your patience while we prepare.  You will be added to the waiting list once you send an email requesting data. 
 
@@ -27,7 +27,8 @@ The gathered data set consists of **5803** CBCT slices in total, out of which **
 
 
 ## Dataset Requisition
-Please send an email to acw499@qmul.ac.uk requesting access to the CTooth dataset after reading the **[Data_requisition.md](https://github.com/liangjiubujiu/CTooth/blob/main/Data_requistion.md)**. Our updates will be announced later on a Wechat group or via our Github account.
+~~Please send an email to acw499@qmul.ac.uk requesting access to the CTooth dataset after reading the **[Data_requisition.md](https://github.com/liangjiubujiu/CTooth/blob/main/Data_requistion.md)**. Our updates will be announced later on a Wechat group or via our Github account.~~
+Please keep an eye out for the latest notices from the [MICCAI 2023](https://conferences.miccai.org/2023/en/). We will record all the emails for dataset requisition and reopen the dataset release with email after the 2023 MICCAI challenge.
 
 ## Benchmark
 Please see the attention based tooth segmentation benckmark [here](./benchmark/readme.md)
