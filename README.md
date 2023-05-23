@@ -10,6 +10,10 @@
 
 The gathered data set consists of **5803** CBCT slices in total, out of which **4243**  contain tooth annotations. The images contain significant structural variations in relation to the teeth position, the number of teeth, restorations, implants, appliances,  and the size of jaws.  We strongly believe this work is a valuable and desired asset to share in public for computer-aided tooth image research. Our goal is to **collect and annotate a 3D tooth dataset, implement an open-source tooth volume segmentation library of state of the art 3D deep neural networks in PyTorch**.    
 
+#### Top priorities 23-05
+Thanks for your patience. So far, we have received over 200 applications for the dataset. We greatly appreciate your attention and believe that this dataset will contribute significantly to the progress of automated 3D tooth segmentation research. To participate in our MICCAI Challenge, please visit the [official link](https://echoyq.github.io/ToothFairlySSS/). You will find our CTooth dataset specifically designed for the **STS-3D** task.
+
+
 #### Top priorities 23-03
 [Update] CTooth dataset has been accepted by the [2023 MICCAI challenge](https://conferences.miccai.org/2023/en/). Please wait for the official channels of data download and result submission. 
 
