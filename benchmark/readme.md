@@ -12,4 +12,4 @@ Existing medical image segmentation methods may perform poorly on the CTooth dat
 
 ## Method analysis
 
-If you want to compare your method with the other classical medical segmentation methods I mentioned in the CTooth paper, you can download them ([copied from a solid GitHub repository] (https://github.com/black0017/MedicalZooPytorch))in this dir and put them on your method package. 
+If you want to compare your method with the other classical medical segmentation methods I mentioned in the CTooth paper, you can download them ([copied from a solid GitHub repository](https://github.com/black0017/MedicalZooPytorch))in this dir and put them on your method package. 
